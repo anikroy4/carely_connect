@@ -1,5 +1,6 @@
 <?php
 $imagePath="./images/events";
+$altText="Events Banner pic directory thik nai";
 // events.php - This file renders the Events page for Carely Connect website
 ?>
 <!DOCTYPE html>
