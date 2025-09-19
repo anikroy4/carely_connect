@@ -122,6 +122,8 @@
 
         /* Banner */
         .banner {
+        
+            
             position: relative;
             width: 100%;
             height: 300px;
@@ -309,8 +311,8 @@
     </header>
 
     <section class="banner">
-        <img src="https://via.placeholder.com/1200x300?text=Events+Banner" alt="Events Banner - People celebrating with cake">
-        <h1>Events</h1>
+    
+    <h1>Events</h1>
     </section>
 
     <section class="activities">
