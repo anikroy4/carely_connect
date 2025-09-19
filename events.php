@@ -295,9 +295,9 @@ $imagePath="./images/events";
         <div class="logo">Carely Connect</div>
         <nav>
             <ul>
-                <li><a href="#">Home</a></li>
+                <li><a href="home.php">Home</a></li>
                 <li><a href="#">About Us</a></li>
-                <li><a href="#">Services ▼</a></li>
+                <li><a href="">Services ▼</a></li>
                 <li><a href="#" class="active">Events</a></li>
                 <li><a href="contact_us.php">Contact Us</a></li>
             </ul>
