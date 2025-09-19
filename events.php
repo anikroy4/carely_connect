@@ -1,4 +1,5 @@
 <?php
+$imagePath="./images/events";
 // events.php - This file renders the Events page for Carely Connect website
 ?>
 <!DOCTYPE html>
@@ -311,7 +312,7 @@
     </header>
 
     <section class="banner">
-    
+     <img src="<?php echo $imagePath; ?>" alt="<?php echo $altText; ?>">
     <h1>Events</h1>
     </section>
 
